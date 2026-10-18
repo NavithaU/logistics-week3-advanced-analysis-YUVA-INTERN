@@ -1,0 +1,5 @@
+region,shipments,avg_transport_cost_inr,avg_delivery_time_hours
+East,24,715.6,7.0
+North,32,861.05,6.87
+South,26,748.16,6.95
+West,38,778.18,7.08

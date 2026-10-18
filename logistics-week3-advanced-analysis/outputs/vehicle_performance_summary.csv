@@ -1,0 +1,4 @@
+vehicle_type,shipments,avg_delivery_time_hours,avg_transport_cost_inr,avg_distance_km
+Bike,34,6.72,591.37,149.0
+Truck,35,7.14,945.08,160.8
+Van,51,7.04,795.43,163.14

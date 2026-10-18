@@ -1,0 +1,5 @@
+,distance_km,shipment_volume_units,delivery_time_hours,transport_cost_inr
+distance_km,1.0,0.11,0.744,0.731
+shipment_volume_units,0.11,1.0,0.32,0.481
+delivery_time_hours,0.744,0.32,1.0,0.644
+transport_cost_inr,0.731,0.481,0.644,1.0
